@@ -1,0 +1,5 @@
+name = Field Provisioner
+description = A set of classes to make managed fields in code seamless.
+core = 7.x
+
+dependencies[] = xautoload
